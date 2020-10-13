@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="openid-connect-server-webapp" />
+        <module name="iotx-api-gateway-client" />
+        <module name="openid-connect-common" />
+        <module name="demo (1)" />
+        <module name="java-rocketmq-client" />
+        <module name="openid-connect-client" />
+        <module name="demo (2)" />
+        <module name="demo (3)" />
+        <module name="uma-server-webapp" />
+        <module name="openid-connect-server" />
+        <module name="leave-service" />
+        <module name="uma-server" />
+        <module name="spring-boot-api-project-seed" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="demo (1)" target="1.8" />
+      <module name="demo (2)" target="1.8" />
+      <module name="demo (3)" target="1.8" />
+      <module name="iotx-api-gateway-client" target="1.8" />
+      <module name="java-rocketmq-client" target="1.8" />
+      <module name="leave-service" target="1.8" />
+      <module name="MyAliyunDemo" target="1.5" />
+      <module name="openid-connect-client" target="1.8" />
+      <module name="openid-connect-common" target="1.8" />
+      <module name="openid-connect-parent" target="1.5" />
+      <module name="openid-connect-server" target="1.8" />
+      <module name="openid-connect-server-webapp" target="1.8" />
+      <module name="robot" target="1.8" />
+      <module name="robot-dispatch" target="1.8" />
+      <module name="robot-entity" target="1.8" />
+      <module name="robot-service" target="1.8" />
+      <module name="rocketmq-client" target="1.8" />
+      <module name="rocketmq-client (1)" target="1.8" />
+      <module name="spring-boot-api-project-seed" target="1.8" />
+      <module name="spring-boot-control-aop-service" target="1.8" />
+      <module name="spring-boot-control-common-service" target="1.8" />
+      <module name="spring-boot-control-conf-service" target="1.8" />
+      <module name="spring-boot-control-exception-service" target="1.8" />
+      <module name="spring-boot-control-logback-service" target="1.8" />
+      <module name="spring-boot-control-netty-service" target="1.8" />
+      <module name="spring-boot-control-rabbitmq-service" target="1.8" />
+      <module name="spring-boot-control-redis-service" target="1.8" />
+      <module name="spring-boot-control-rest-service" target="1.8" />
+      <module name="spring-boot-control-returnvalue-service" target="1.8" />
+      <module name="spring-boot-control-test-service" target="1.8" />
+      <module name="spring-boot-control-threadpool-service" target="1.8" />
+      <module name="spring-boot-control-zeromq-service" target="1.8" />
+      <module name="spring-parent" target="1.8" />
+      <module name="spring-security-jwt-service" target="1.8" />
+      <module name="spring-security-oauth2-resource-jwt-service" target="1.8" />
+      <module name="spring-security-oauth2-resource-redis-service" target="1.8" />
+      <module name="spring-security-oauth2-server-jwt-service" target="1.8" />
+      <module name="spring-security-oauth2-server-redis-service" target="1.8" />
+      <module name="uma-server" target="1.8" />
+      <module name="uma-server-webapp" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="demo (1)" options="-parameters" />
+      <module name="demo (2)" options="-parameters" />
+      <module name="demo (3)" options="-parameters" />
+      <module name="leave-service" options="-parameters" />
+      <module name="robot-dispatch" options="-parameters" />
+      <module name="robot-entity" options="-parameters" />
+      <module name="robot-service" options="-parameters" />
+      <module name="spring-boot-control-aop-service" options="-parameters" />
+      <module name="spring-boot-control-common-service" options="-parameters" />
+      <module name="spring-boot-control-conf-service" options="-parameters" />
+      <module name="spring-boot-control-exception-service" options="-parameters" />
+      <module name="spring-boot-control-logback-service" options="-parameters" />
+      <module name="spring-boot-control-netty-service" options="-parameters" />
+      <module name="spring-boot-control-rabbitmq-service" options="-parameters" />
+      <module name="spring-boot-control-redis-service" options="-parameters" />
+      <module name="spring-boot-control-rest-service" options="-parameters" />
+      <module name="spring-boot-control-returnvalue-service" options="-parameters" />
+      <module name="spring-boot-control-test-service" options="-parameters" />
+      <module name="spring-boot-control-threadpool-service" options="-parameters" />
+      <module name="spring-boot-control-zeromq-service" options="-parameters" />
+      <module name="spring-security-jwt-service" options="-parameters" />
+      <module name="spring-security-oauth2-resource-jwt-service" options="-parameters" />
+      <module name="spring-security-oauth2-resource-redis-service" options="-parameters" />
+      <module name="spring-security-oauth2-server-jwt-service" options="-parameters" />
+      <module name="spring-security-oauth2-server-redis-service" options="-parameters" />
+    </option>
+  </component>
+</project>

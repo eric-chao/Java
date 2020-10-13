@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/OpenID-Connect-Java-Spring-Server/openid-connect-server-webapp" />
+    <file type="web" url="file://$PROJECT_DIR$/OpenID-Connect-Java-Spring-Server/uma-server-webapp" />
+  </component>
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/java-rocketmq-client/pom.xml" />
+        <option value="$PROJECT_DIR$/iotx-api-gateway-client/pom.xml" />
+        <option value="$PROJECT_DIR$/ngcc.cloud.robot/pom.xml" />
+        <option value="$PROJECT_DIR$/OpenID-Connect-Java-Spring-Server/pom.xml" />
+        <option value="$PROJECT_DIR$/leave-sample/leave-service/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-parent/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-api-project-seed/pom.xml" />
+        <option value="$PROJECT_DIR$/redis/ranking-list-redis/pom.xml" />
+        <option value="$PROJECT_DIR$/redis/ranking-list-redis-1/pom.xml" />
+        <option value="$PROJECT_DIR$/redis/ranking-list-top/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/ngcc.cloud.robot/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>

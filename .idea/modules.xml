@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java.iml" filepath="$PROJECT_DIR$/.idea/Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/redis/ranking-list-redis-1/demo (1).iml" filepath="$PROJECT_DIR$/redis/ranking-list-redis-1/demo (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/redis/ranking-list-redis/demo (2).iml" filepath="$PROJECT_DIR$/redis/ranking-list-redis/demo (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/redis/ranking-list-top/demo (3).iml" filepath="$PROJECT_DIR$/redis/ranking-list-top/demo (3).iml" />
+      <module fileurl="file://$PROJECT_DIR$/iotx-api-gateway-client/iotx-api-gateway-client.iml" filepath="$PROJECT_DIR$/iotx-api-gateway-client/iotx-api-gateway-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-rocketmq-client/java-rocketmq-client.iml" filepath="$PROJECT_DIR$/java-rocketmq-client/java-rocketmq-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/leave-sample-ddd/leave-service/leave-service.iml" filepath="$PROJECT_DIR$/leave-sample-ddd/leave-service/leave-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OpenID-Connect-Java-Spring-Server/openid-connect-client/openid-connect-client.iml" filepath="$PROJECT_DIR$/OpenID-Connect-Java-Spring-Server/openid-connect-client/openid-connect-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OpenID-Connect-Java-Spring-Server/openid-connect-common/openid-connect-common.iml" filepath="$PROJECT_DIR$/OpenID-Connect-Java-Spring-Server/openid-connect-common/openid-connect-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OpenID-Connect-Java-Spring-Server/openid-connect-parent.iml" filepath="$PROJECT_DIR$/OpenID-Connect-Java-Spring-Server/openid-connect-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OpenID-Connect-Java-Spring-Server/openid-connect-server/openid-connect-server.iml" filepath="$PROJECT_DIR$/OpenID-Connect-Java-Spring-Server/openid-connect-server/openid-connect-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OpenID-Connect-Java-Spring-Server/openid-connect-server-webapp/openid-connect-server-webapp.iml" filepath="$PROJECT_DIR$/OpenID-Connect-Java-Spring-Server/openid-connect-server-webapp/openid-connect-server-webapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-api-project-seed/spring-boot-api-project-seed.iml" filepath="$PROJECT_DIR$/spring-boot-api-project-seed/spring-boot-api-project-seed.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-parent/spring-boot-control-aop-service/spring-boot-control-aop-service.iml" filepath="$PROJECT_DIR$/spring-parent/spring-boot-control-aop-service/spring-boot-control-aop-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-parent/spring-boot-control-common-service/spring-boot-control-common-service.iml" filepath="$PROJECT_DIR$/spring-parent/spring-boot-control-common-service/spring-boot-control-common-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-parent/spring-boot-control-conf-service/spring-boot-control-conf-service.iml" filepath="$PROJECT_DIR$/spring-parent/spring-boot-control-conf-service/spring-boot-control-conf-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-parent/spring-boot-control-exception-service/spring-boot-control-exception-service.iml" filepath="$PROJECT_DIR$/spring-parent/spring-boot-control-exception-service/spring-boot-control-exception-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-parent/spring-boot-control-logback-service/spring-boot-control-logback-service.iml" filepath="$PROJECT_DIR$/spring-parent/spring-boot-control-logback-service/spring-boot-control-logback-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-parent/spring-boot-control-netty-service/spring-boot-control-netty-service.iml" filepath="$PROJECT_DIR$/spring-parent/spring-boot-control-netty-service/spring-boot-control-netty-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-parent/spring-boot-control-rabbitmq-service/spring-boot-control-rabbitmq-service.iml" filepath="$PROJECT_DIR$/spring-parent/spring-boot-control-rabbitmq-service/spring-boot-control-rabbitmq-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-parent/spring-boot-control-redis-service/spring-boot-control-redis-service.iml" filepath="$PROJECT_DIR$/spring-parent/spring-boot-control-redis-service/spring-boot-control-redis-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-parent/spring-boot-control-rest-service/spring-boot-control-rest-service.iml" filepath="$PROJECT_DIR$/spring-parent/spring-boot-control-rest-service/spring-boot-control-rest-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-parent/spring-boot-control-returnvalue-service/spring-boot-control-returnvalue-service.iml" filepath="$PROJECT_DIR$/spring-parent/spring-boot-control-returnvalue-service/spring-boot-control-returnvalue-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-parent/spring-boot-control-test-service/spring-boot-control-test-service.iml" filepath="$PROJECT_DIR$/spring-parent/spring-boot-control-test-service/spring-boot-control-test-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-parent/spring-boot-control-threadpool-service/spring-boot-control-threadpool-service.iml" filepath="$PROJECT_DIR$/spring-parent/spring-boot-control-threadpool-service/spring-boot-control-threadpool-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-parent/spring-boot-control-zeromq-service/spring-boot-control-zeromq-service.iml" filepath="$PROJECT_DIR$/spring-parent/spring-boot-control-zeromq-service/spring-boot-control-zeromq-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-parent/spring-parent.iml" filepath="$PROJECT_DIR$/spring-parent/spring-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-parent/spring-security-jwt-service/spring-security-jwt-service.iml" filepath="$PROJECT_DIR$/spring-parent/spring-security-jwt-service/spring-security-jwt-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-parent/spring-security-oauth2-resource-jwt-service/spring-security-oauth2-resource-jwt-service.iml" filepath="$PROJECT_DIR$/spring-parent/spring-security-oauth2-resource-jwt-service/spring-security-oauth2-resource-jwt-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-parent/spring-security-oauth2-resource-redis-service/spring-security-oauth2-resource-redis-service.iml" filepath="$PROJECT_DIR$/spring-parent/spring-security-oauth2-resource-redis-service/spring-security-oauth2-resource-redis-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-parent/spring-security-oauth2-server-jwt-service/spring-security-oauth2-server-jwt-service.iml" filepath="$PROJECT_DIR$/spring-parent/spring-security-oauth2-server-jwt-service/spring-security-oauth2-server-jwt-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-parent/spring-security-oauth2-server-redis-service/spring-security-oauth2-server-redis-service.iml" filepath="$PROJECT_DIR$/spring-parent/spring-security-oauth2-server-redis-service/spring-security-oauth2-server-redis-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OpenID-Connect-Java-Spring-Server/uma-server/uma-server.iml" filepath="$PROJECT_DIR$/OpenID-Connect-Java-Spring-Server/uma-server/uma-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OpenID-Connect-Java-Spring-Server/uma-server-webapp/uma-server-webapp.iml" filepath="$PROJECT_DIR$/OpenID-Connect-Java-Spring-Server/uma-server-webapp/uma-server-webapp.iml" />
+    </modules>
+  </component>
+</project>

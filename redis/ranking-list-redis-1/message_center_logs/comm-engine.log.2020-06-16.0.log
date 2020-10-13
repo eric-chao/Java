@@ -1,0 +1,336 @@
+2020-06-16 11:16:05.354 [main] INFO  com.test.demo.DemoApplication - Starting DemoApplication on bogon with PID 49355 (/Users/chao/IdeaProjects/ranking-list-redis/target/classes started by chao in /Users/chao/IdeaProjects/ranking-list-redis)
+2020-06-16 11:16:05.358 [main] INFO  com.test.demo.DemoApplication - No active profile set, falling back to default profiles: default
+2020-06-16 11:16:06.309 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2020-06-16 11:16:06.312 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2020-06-16 11:16:06.350 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 19ms. Found 0 Redis repository interfaces.
+2020-06-16 11:16:06.965 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-06-16 11:16:06.977 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-06-16 11:16:06.978 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-06-16 11:16:06.979 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-06-16 11:16:07.089 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-06-16 11:16:07.089 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1668 ms
+2020-06-16 11:16:07.383 [main] INFO  org.redisson.Version - Redisson 3.3.2
+2020-06-16 11:16:07.780 [redisson-netty-1-14] INFO  o.r.connection.pool.MasterPubSubConnectionPool - 1 connections initialized for /127.0.0.1:7000
+2020-06-16 11:16:07.793 [redisson-netty-1-7] INFO  org.redisson.connection.pool.MasterConnectionPool - 50 connections initialized for /127.0.0.1:7000
+2020-06-16 11:16:07.835 [main] INFO  com.test.demo.config.RedisConfig - JedisPool注入成功！
+2020-06-16 11:16:07.835 [main] INFO  com.test.demo.config.RedisConfig - redis地址：127.0.0.1:7000
+2020-06-16 11:16:08.413 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-06-16 11:16:08.729 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2020-06-16 11:16:08.754 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2020-06-16 11:16:08.770 [main] INFO  com.test.demo.DemoApplication - Started DemoApplication in 4.223 seconds (JVM running for 5.117)
+2020-06-16 11:16:11.758 [SpringContextShutdownHook] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-06-16 11:31:49.727 [main] INFO  com.test.demo.DemoApplication - Starting DemoApplication on bogon with PID 49631 (/Users/chao/IdeaProjects/ranking-list-redis/target/classes started by chao in /Users/chao/IdeaProjects/ranking-list-redis)
+2020-06-16 11:31:49.732 [main] INFO  com.test.demo.DemoApplication - No active profile set, falling back to default profiles: default
+2020-06-16 11:31:50.318 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2020-06-16 11:31:50.320 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2020-06-16 11:31:50.340 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 10ms. Found 0 Redis repository interfaces.
+2020-06-16 11:31:50.603 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-06-16 11:31:50.609 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-06-16 11:31:50.609 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-06-16 11:31:50.609 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-06-16 11:31:50.668 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-06-16 11:31:50.668 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 889 ms
+2020-06-16 11:31:50.780 [main] INFO  org.redisson.Version - Redisson 3.3.2
+2020-06-16 11:31:51.060 [redisson-netty-1-4] INFO  o.r.connection.pool.MasterPubSubConnectionPool - 1 connections initialized for /127.0.0.1:7000
+2020-06-16 11:31:51.060 [redisson-netty-1-7] INFO  org.redisson.connection.pool.MasterConnectionPool - 50 connections initialized for /127.0.0.1:7000
+2020-06-16 11:31:51.081 [main] INFO  com.test.demo.config.RedisConfig - JedisPool注入成功！
+2020-06-16 11:31:51.082 [main] INFO  com.test.demo.config.RedisConfig - redis地址：127.0.0.1:7000
+2020-06-16 11:31:51.424 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-06-16 11:31:51.606 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2020-06-16 11:31:51.620 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2020-06-16 11:31:51.628 [main] INFO  com.test.demo.DemoApplication - Started DemoApplication in 2.226 seconds (JVM running for 2.769)
+2020-06-16 11:36:01.156 [main] INFO  com.test.demo.DemoApplication - Starting DemoApplication on bogon with PID 49713 (/Users/chao/IdeaProjects/ranking-list-redis-2/target/classes started by chao in /Users/chao/IdeaProjects/ranking-list-redis-2)
+2020-06-16 11:36:01.159 [main] INFO  com.test.demo.DemoApplication - No active profile set, falling back to default profiles: default
+2020-06-16 11:36:01.763 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2020-06-16 11:36:01.764 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2020-06-16 11:36:01.789 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 10ms. Found 0 Redis repository interfaces.
+2020-06-16 11:36:02.051 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-06-16 11:36:02.058 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-06-16 11:36:02.058 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-06-16 11:36:02.058 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-06-16 11:36:02.106 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-06-16 11:36:02.106 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 919 ms
+2020-06-16 11:36:02.226 [main] INFO  org.redisson.Version - Redisson 3.3.2
+2020-06-16 11:36:02.506 [redisson-netty-1-11] INFO  o.r.connection.pool.MasterPubSubConnectionPool - 1 connections initialized for /127.0.0.1:7000
+2020-06-16 11:36:02.513 [redisson-netty-1-7] INFO  org.redisson.connection.pool.MasterConnectionPool - 50 connections initialized for /127.0.0.1:7000
+2020-06-16 11:36:02.531 [main] INFO  com.test.demo.config.RedisConfig - JedisPool注入成功！
+2020-06-16 11:36:02.531 [main] INFO  com.test.demo.config.RedisConfig - redis地址：127.0.0.1:7000
+2020-06-16 11:36:02.787 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-06-16 11:36:02.929 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2020-06-16 11:36:02.934 [main] WARN  o.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'; nested exception is org.springframework.boot.web.server.PortInUseException: Port 8080 is already in use
+2020-06-16 11:36:02.935 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-06-16 11:36:02.945 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Pausing ProtocolHandler ["http-nio-8080"]
+2020-06-16 11:36:02.945 [main] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat]
+2020-06-16 11:36:02.948 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Stopping ProtocolHandler ["http-nio-8080"]
+2020-06-16 11:36:02.948 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Destroying ProtocolHandler ["http-nio-8080"]
+2020-06-16 11:36:02.953 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2020-06-16 11:36:02.955 [main] ERROR o.s.b.diagnostics.LoggingFailureAnalysisReporter - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 8080 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 8080 or configure this application to listen on another port.
+
+2020-06-16 11:36:22.711 [main] INFO  com.test.demo.DemoApplication - Starting DemoApplication on bogon with PID 49728 (/Users/chao/IdeaProjects/ranking-list-redis-2/target/classes started by chao in /Users/chao/IdeaProjects/ranking-list-redis-2)
+2020-06-16 11:36:22.713 [main] INFO  com.test.demo.DemoApplication - No active profile set, falling back to default profiles: default
+2020-06-16 11:36:23.160 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2020-06-16 11:36:23.162 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2020-06-16 11:36:23.181 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 10ms. Found 0 Redis repository interfaces.
+2020-06-16 11:36:23.441 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-06-16 11:36:23.447 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-06-16 11:36:23.448 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-06-16 11:36:23.448 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-06-16 11:36:23.509 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-06-16 11:36:23.509 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 769 ms
+2020-06-16 11:36:23.633 [main] INFO  org.redisson.Version - Redisson 3.3.2
+2020-06-16 11:36:23.798 [redisson-netty-1-14] INFO  o.r.connection.pool.MasterPubSubConnectionPool - 1 connections initialized for /127.0.0.1:7000
+2020-06-16 11:36:23.804 [redisson-netty-1-6] INFO  org.redisson.connection.pool.MasterConnectionPool - 50 connections initialized for /127.0.0.1:7000
+2020-06-16 11:36:23.821 [main] INFO  com.test.demo.config.RedisConfig - JedisPool注入成功！
+2020-06-16 11:36:23.822 [main] INFO  com.test.demo.config.RedisConfig - redis地址：127.0.0.1:7000
+2020-06-16 11:36:24.145 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-06-16 11:36:24.276 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2020-06-16 11:36:24.287 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2020-06-16 11:36:24.295 [main] INFO  com.test.demo.DemoApplication - Started DemoApplication in 1.847 seconds (JVM running for 2.269)
+2020-06-16 11:36:26.730 [SpringContextShutdownHook] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-06-16 11:37:15.106 [main] INFO  com.test.demo.DemoApplication - Starting DemoApplication on bogon with PID 49741 (/Users/chao/IdeaProjects/ranking-list-redis-2/target/classes started by chao in /Users/chao/IdeaProjects/ranking-list-redis-2)
+2020-06-16 11:37:15.108 [main] INFO  com.test.demo.DemoApplication - No active profile set, falling back to default profiles: default
+2020-06-16 11:37:15.736 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2020-06-16 11:37:15.738 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2020-06-16 11:37:15.757 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 9ms. Found 0 Redis repository interfaces.
+2020-06-16 11:37:16.031 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-06-16 11:37:16.037 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-06-16 11:37:16.037 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-06-16 11:37:16.038 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-06-16 11:37:16.083 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-06-16 11:37:16.084 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 948 ms
+2020-06-16 11:37:16.130 [main] INFO  com.test.demo.config.RedisConfig - JedisPool注入成功！
+2020-06-16 11:37:16.130 [main] INFO  com.test.demo.config.RedisConfig - redis地址：127.0.0.1:7000
+2020-06-16 11:37:16.500 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-06-16 11:37:16.696 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2020-06-16 11:37:16.728 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2020-06-16 11:37:16.736 [main] INFO  com.test.demo.DemoApplication - Started DemoApplication in 1.887 seconds (JVM running for 2.298)
+2020-06-16 11:37:23.768 [SpringContextShutdownHook] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-06-16 11:37:43.395 [main] INFO  com.test.demo.DemoApplication - Starting DemoApplication on bogon with PID 49758 (/Users/chao/IdeaProjects/ranking-list-redis-1/target/classes started by chao in /Users/chao/IdeaProjects/ranking-list-redis-1)
+2020-06-16 11:37:43.397 [main] INFO  com.test.demo.DemoApplication - No active profile set, falling back to default profiles: default
+2020-06-16 11:37:43.944 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2020-06-16 11:37:43.946 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2020-06-16 11:37:43.967 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 8ms. Found 0 Redis repository interfaces.
+2020-06-16 11:37:44.266 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-06-16 11:37:44.274 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-06-16 11:37:44.275 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-06-16 11:37:44.275 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-06-16 11:37:44.334 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-06-16 11:37:44.334 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 905 ms
+2020-06-16 11:37:44.388 [main] INFO  com.test.demo.config.RedisConfig - JedisPool注入成功！
+2020-06-16 11:37:44.388 [main] INFO  com.test.demo.config.RedisConfig - redis地址：127.0.0.1:7000
+2020-06-16 11:37:44.800 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-06-16 11:37:44.986 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2020-06-16 11:37:45.021 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2020-06-16 11:37:45.029 [main] INFO  com.test.demo.DemoApplication - Started DemoApplication in 1.934 seconds (JVM running for 2.384)
+2020-06-16 11:37:47.270 [SpringContextShutdownHook] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-06-16 11:39:21.529 [main] INFO  com.test.demo.DemoApplication - Starting DemoApplication on bogon with PID 49795 (/Users/chao/IdeaProjects/ranking-list-redis-1/target/classes started by chao in /Users/chao/IdeaProjects/ranking-list-redis-1)
+2020-06-16 11:39:21.534 [main] INFO  com.test.demo.DemoApplication - No active profile set, falling back to default profiles: default
+2020-06-16 11:39:22.306 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2020-06-16 11:39:22.309 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2020-06-16 11:39:22.338 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 13ms. Found 0 Redis repository interfaces.
+2020-06-16 11:39:22.877 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-06-16 11:39:22.890 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-06-16 11:39:22.890 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-06-16 11:39:22.890 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-06-16 11:39:22.979 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-06-16 11:39:22.979 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1384 ms
+2020-06-16 11:39:23.052 [main] INFO  com.test.demo.config.RedisConfig - JedisPool注入成功！
+2020-06-16 11:39:23.052 [main] INFO  com.test.demo.config.RedisConfig - redis地址：127.0.0.1:7000
+2020-06-16 11:39:23.508 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-06-16 11:39:23.812 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2020-06-16 11:39:23.849 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2020-06-16 11:39:23.859 [main] INFO  com.test.demo.DemoApplication - Started DemoApplication in 2.864 seconds (JVM running for 3.587)
+2020-06-16 11:39:45.261 [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-06-16 11:39:45.262 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-06-16 11:39:45.268 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 6 ms
+2020-06-16 11:39:45.831 [http-nio-8080-exec-1] INFO  com.test.demo.controller.LockController - 执行线程数:10,总耗时:545,count数为:10
+2020-06-16 11:42:13.783 [SpringContextShutdownHook] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-06-16 12:22:46.242 [main] INFO  com.test.demo.DemoApplication - Starting DemoApplication on bogon with PID 50539 (/Users/chao/IdeaProjects/ranking-list-redis-1/target/classes started by chao in /Users/chao/IdeaProjects/ranking-list-redis-1)
+2020-06-16 12:22:46.245 [main] INFO  com.test.demo.DemoApplication - No active profile set, falling back to default profiles: default
+2020-06-16 12:22:46.908 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2020-06-16 12:22:46.911 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2020-06-16 12:22:46.940 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 12ms. Found 0 Redis repository interfaces.
+2020-06-16 12:22:47.283 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-06-16 12:22:47.291 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-06-16 12:22:47.292 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-06-16 12:22:47.292 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-06-16 12:22:47.346 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-06-16 12:22:47.347 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1055 ms
+2020-06-16 12:22:47.399 [main] WARN  o.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'distributedLockerController': Unsatisfied dependency expressed through field 'distributedLocker'; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'com.test.demo.lock.RedisLocker' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+2020-06-16 12:22:47.405 [main] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat]
+2020-06-16 12:22:47.422 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2020-06-16 12:22:47.649 [main] ERROR o.s.b.diagnostics.LoggingFailureAnalysisReporter - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field distributedLocker in com.test.demo.controller.DistributedLockerController required a bean of type 'com.test.demo.lock.RedisLocker' that could not be found.
+
+The injection point has the following annotations:
+	- @org.springframework.beans.factory.annotation.Autowired(required=true)
+
+
+Action:
+
+Consider defining a bean of type 'com.test.demo.lock.RedisLocker' in your configuration.
+
+2020-06-16 12:22:47.656 [main] WARN  org.springframework.boot.SpringApplication - Unable to close ApplicationContext
+org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'springApplicationAdminRegistrar' defined in class path resource [org/springframework/boot/autoconfigure/admin/SpringApplicationAdminJmxAutoConfiguration.class]: Unsatisfied dependency expressed through method 'springApplicationAdminRegistrar' parameter 1; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'org.springframework.core.env.Environment' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {}
+	at org.springframework.beans.factory.support.ConstructorResolver.createArgumentArray(ConstructorResolver.java:798)
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiateUsingFactoryMethod(ConstructorResolver.java:539)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateUsingFactoryMethod(AbstractAutowireCapableBeanFactory.java:1338)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1177)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:557)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:517)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:323)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:226)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:321)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:207)
+	at org.springframework.context.event.AbstractApplicationEventMulticaster.retrieveApplicationListeners(AbstractApplicationEventMulticaster.java:245)
+	at org.springframework.context.event.AbstractApplicationEventMulticaster.getApplicationListeners(AbstractApplicationEventMulticaster.java:197)
+	at org.springframework.context.event.SimpleApplicationEventMulticaster.multicastEvent(SimpleApplicationEventMulticaster.java:134)
+	at org.springframework.context.support.AbstractApplicationContext.publishEvent(AbstractApplicationContext.java:403)
+	at org.springframework.context.support.AbstractApplicationContext.publishEvent(AbstractApplicationContext.java:360)
+	at org.springframework.boot.availability.AvailabilityChangeEvent.publish(AvailabilityChangeEvent.java:81)
+	at org.springframework.boot.availability.AvailabilityChangeEvent.publish(AvailabilityChangeEvent.java:67)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.doClose(ServletWebServerApplicationContext.java:167)
+	at org.springframework.context.support.AbstractApplicationContext.close(AbstractApplicationContext.java:978)
+	at org.springframework.boot.SpringApplication.handleRunFailure(SpringApplication.java:814)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:325)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1237)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1226)
+	at com.test.demo.DemoApplication.main(DemoApplication.java:10)
+Caused by: org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'org.springframework.core.env.Environment' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {}
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.raiseNoMatchingBeanFound(DefaultListableBeanFactory.java:1716)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1272)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1226)
+	at org.springframework.beans.factory.support.ConstructorResolver.resolveAutowiredArgument(ConstructorResolver.java:885)
+	at org.springframework.beans.factory.support.ConstructorResolver.createArgumentArray(ConstructorResolver.java:789)
+	... 23 common frames omitted
+2020-06-16 12:23:14.822 [main] INFO  com.test.demo.DemoApplication - Starting DemoApplication on bogon with PID 50554 (/Users/chao/IdeaProjects/ranking-list-redis-1/target/classes started by chao in /Users/chao/IdeaProjects/ranking-list-redis-1)
+2020-06-16 12:23:14.824 [main] INFO  com.test.demo.DemoApplication - No active profile set, falling back to default profiles: default
+2020-06-16 12:23:15.525 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2020-06-16 12:23:15.527 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2020-06-16 12:23:15.550 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 11ms. Found 0 Redis repository interfaces.
+2020-06-16 12:23:15.871 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-06-16 12:23:15.878 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-06-16 12:23:15.879 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-06-16 12:23:15.879 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-06-16 12:23:15.948 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-06-16 12:23:15.949 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1091 ms
+2020-06-16 12:23:16.034 [main] INFO  com.test.demo.config.RedisConfig - JedisPool注入成功！
+2020-06-16 12:23:16.034 [main] INFO  com.test.demo.config.RedisConfig - redis地址：127.0.0.1:7000
+2020-06-16 12:23:16.527 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-06-16 12:23:16.771 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2020-06-16 12:23:16.806 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2020-06-16 12:23:16.817 [main] INFO  com.test.demo.DemoApplication - Started DemoApplication in 2.322 seconds (JVM running for 2.891)
+2020-06-16 12:23:34.751 [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-06-16 12:23:34.752 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-06-16 12:23:34.759 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 7 ms
+2020-06-16 12:24:53.350 [SpringContextShutdownHook] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-06-16 12:25:08.690 [main] INFO  com.test.demo.DemoApplication - Starting DemoApplication on bogon with PID 50597 (/Users/chao/IdeaProjects/ranking-list-redis-1/target/classes started by chao in /Users/chao/IdeaProjects/ranking-list-redis-1)
+2020-06-16 12:25:08.696 [main] INFO  com.test.demo.DemoApplication - No active profile set, falling back to default profiles: default
+2020-06-16 12:25:09.974 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2020-06-16 12:25:09.978 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2020-06-16 12:25:10.028 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 25ms. Found 0 Redis repository interfaces.
+2020-06-16 12:25:10.709 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-06-16 12:25:10.723 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-06-16 12:25:10.725 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-06-16 12:25:10.725 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-06-16 12:25:10.854 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-06-16 12:25:10.855 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 2081 ms
+2020-06-16 12:25:10.989 [main] INFO  com.test.demo.config.RedisConfig - JedisPool注入成功！
+2020-06-16 12:25:10.990 [main] INFO  com.test.demo.config.RedisConfig - redis地址：127.0.0.1:7000
+2020-06-16 12:25:11.633 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-06-16 12:25:12.143 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2020-06-16 12:25:12.224 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2020-06-16 12:25:12.249 [main] INFO  com.test.demo.DemoApplication - Started DemoApplication in 4.326 seconds (JVM running for 5.644)
+2020-06-16 12:25:18.213 [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-06-16 12:25:18.214 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-06-16 12:25:18.221 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 7 ms
+2020-06-16 12:26:11.829 [SpringContextShutdownHook] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-06-16 12:26:18.560 [main] INFO  com.test.demo.DemoApplication - Starting DemoApplication on bogon with PID 50619 (/Users/chao/IdeaProjects/ranking-list-redis-1/target/classes started by chao in /Users/chao/IdeaProjects/ranking-list-redis-1)
+2020-06-16 12:26:18.563 [main] INFO  com.test.demo.DemoApplication - No active profile set, falling back to default profiles: default
+2020-06-16 12:26:19.235 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2020-06-16 12:26:19.237 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2020-06-16 12:26:19.260 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 11ms. Found 0 Redis repository interfaces.
+2020-06-16 12:26:19.586 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-06-16 12:26:19.593 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-06-16 12:26:19.594 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-06-16 12:26:19.594 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-06-16 12:26:19.658 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-06-16 12:26:19.658 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1062 ms
+2020-06-16 12:26:19.724 [main] INFO  com.test.demo.config.RedisConfig - JedisPool注入成功！
+2020-06-16 12:26:19.724 [main] INFO  com.test.demo.config.RedisConfig - redis地址：127.0.0.1:7000
+2020-06-16 12:26:20.202 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-06-16 12:26:20.424 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2020-06-16 12:26:20.462 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2020-06-16 12:26:20.472 [main] INFO  com.test.demo.DemoApplication - Started DemoApplication in 2.243 seconds (JVM running for 2.821)
+2020-06-16 12:26:24.092 [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-06-16 12:26:24.092 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-06-16 12:26:24.096 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 4 ms
+2020-06-16 12:27:53.789 [SpringContextShutdownHook] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-06-16 12:29:44.951 [main] INFO  com.test.demo.DemoApplication - Starting DemoApplication on bogon with PID 50680 (/Users/chao/IdeaProjects/ranking-list-redis-1/target/classes started by chao in /Users/chao/IdeaProjects/ranking-list-redis-1)
+2020-06-16 12:29:44.954 [main] INFO  com.test.demo.DemoApplication - No active profile set, falling back to default profiles: default
+2020-06-16 12:29:45.600 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2020-06-16 12:29:45.602 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2020-06-16 12:29:45.626 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 11ms. Found 0 Redis repository interfaces.
+2020-06-16 12:29:45.951 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-06-16 12:29:45.964 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-06-16 12:29:45.967 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-06-16 12:29:45.968 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-06-16 12:29:46.054 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-06-16 12:29:46.054 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1067 ms
+2020-06-16 12:29:46.125 [main] INFO  com.test.demo.config.RedisConfig - JedisPool注入成功！
+2020-06-16 12:29:46.125 [main] INFO  com.test.demo.config.RedisConfig - redis地址：127.0.0.1:7000
+2020-06-16 12:29:46.556 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-06-16 12:29:46.943 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2020-06-16 12:29:46.981 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2020-06-16 12:29:46.993 [main] INFO  com.test.demo.DemoApplication - Started DemoApplication in 2.374 seconds (JVM running for 2.948)
+2020-06-16 12:29:48.835 [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-06-16 12:29:48.836 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-06-16 12:29:48.839 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 3 ms
+2020-06-16 12:30:54.675 [SpringContextShutdownHook] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-06-16 12:31:30.880 [main] INFO  com.test.demo.DemoApplication - Starting DemoApplication on bogon with PID 50720 (/Users/chao/IdeaProjects/ranking-list-redis-1/target/classes started by chao in /Users/chao/IdeaProjects/ranking-list-redis-1)
+2020-06-16 12:31:30.882 [main] INFO  com.test.demo.DemoApplication - No active profile set, falling back to default profiles: default
+2020-06-16 12:31:31.535 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2020-06-16 12:31:31.536 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2020-06-16 12:31:31.560 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 12ms. Found 0 Redis repository interfaces.
+2020-06-16 12:31:31.871 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-06-16 12:31:31.878 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-06-16 12:31:31.879 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-06-16 12:31:31.879 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-06-16 12:31:31.938 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-06-16 12:31:31.939 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1022 ms
+2020-06-16 12:31:32.111 [main] INFO  org.redisson.Version - Redisson 3.3.2
+2020-06-16 12:31:32.416 [redisson-netty-1-2] INFO  o.r.connection.pool.MasterPubSubConnectionPool - 1 connections initialized for /127.0.0.1:7000
+2020-06-16 12:31:32.427 [redisson-netty-1-7] INFO  org.redisson.connection.pool.MasterConnectionPool - 50 connections initialized for /127.0.0.1:7000
+2020-06-16 12:31:32.446 [main] INFO  com.test.demo.config.RedisConfig - JedisPool注入成功！
+2020-06-16 12:31:32.446 [main] INFO  com.test.demo.config.RedisConfig - redis地址：127.0.0.1:7000
+2020-06-16 12:31:32.797 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-06-16 12:31:33.015 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2020-06-16 12:31:33.031 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2020-06-16 12:31:33.040 [main] INFO  com.test.demo.DemoApplication - Started DemoApplication in 2.484 seconds (JVM running for 3.069)
+2020-06-16 12:31:36.139 [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-06-16 12:31:36.139 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-06-16 12:31:36.143 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 4 ms
+2020-06-16 18:22:55.837 [SpringContextShutdownHook] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'

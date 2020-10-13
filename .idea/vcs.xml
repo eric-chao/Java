@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/OpenID-Connect-Java-Spring-Server" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/geektime-ELK" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/iotx-api-gateway-client" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/java-rocketmq-client" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/leave-sample" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/leave-sample-ddd" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/spring-boot-api-project-seed" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/spring-parent" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/szp-demo" vcs="Git" />
+  </component>
+</project>
