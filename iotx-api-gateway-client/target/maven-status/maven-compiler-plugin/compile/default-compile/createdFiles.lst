@@ -1,0 +1,5 @@
+com/aliyun/iotx/api/client/SyncApiClient.class
+com/aliyun/iotx/api/client/SyncApiGetClient.class
+com/aliyun/iotx/api/client/IoTApiRequest.class
+com/aliyun/iotx/api/client/RequestDemo.class
+com/aliyun/iotx/api/client/IoTApiClientBuilderParams.class
