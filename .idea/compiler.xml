@@ -6,19 +6,20 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="openid-connect-server-webapp" />
-        <module name="iotx-api-gateway-client" />
-        <module name="openid-connect-common" />
-        <module name="demo (1)" />
+        <module name="java-basic-practice" />
         <module name="java-rocketmq-client" />
         <module name="openid-connect-client" />
-        <module name="demo (2)" />
-        <module name="demo (3)" />
-        <module name="uma-server-webapp" />
-        <module name="openid-connect-server" />
-        <module name="leave-service" />
         <module name="uma-server" />
+        <module name="leave-service" />
+        <module name="openid-connect-common" />
+        <module name="openid-connect-server" />
+        <module name="demo (2)" />
+        <module name="demo (1)" />
+        <module name="openid-connect-server-webapp" />
+        <module name="demo (3)" />
         <module name="spring-boot-api-project-seed" />
+        <module name="iotx-api-gateway-client" />
+        <module name="uma-server-webapp" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -26,20 +27,14 @@
       <module name="demo (2)" target="1.8" />
       <module name="demo (3)" target="1.8" />
       <module name="iotx-api-gateway-client" target="1.8" />
+      <module name="java-basic-practice" target="8" />
       <module name="java-rocketmq-client" target="1.8" />
       <module name="leave-service" target="1.8" />
-      <module name="MyAliyunDemo" target="1.5" />
       <module name="openid-connect-client" target="1.8" />
       <module name="openid-connect-common" target="1.8" />
       <module name="openid-connect-parent" target="1.5" />
       <module name="openid-connect-server" target="1.8" />
       <module name="openid-connect-server-webapp" target="1.8" />
-      <module name="robot" target="1.8" />
-      <module name="robot-dispatch" target="1.8" />
-      <module name="robot-entity" target="1.8" />
-      <module name="robot-service" target="1.8" />
-      <module name="rocketmq-client" target="1.8" />
-      <module name="rocketmq-client (1)" target="1.8" />
       <module name="spring-boot-api-project-seed" target="1.8" />
       <module name="spring-boot-control-aop-service" target="1.8" />
       <module name="spring-boot-control-common-service" target="1.8" />
@@ -70,9 +65,6 @@
       <module name="demo (2)" options="-parameters" />
       <module name="demo (3)" options="-parameters" />
       <module name="leave-service" options="-parameters" />
-      <module name="robot-dispatch" options="-parameters" />
-      <module name="robot-entity" options="-parameters" />
-      <module name="robot-service" options="-parameters" />
       <module name="spring-boot-control-aop-service" options="-parameters" />
       <module name="spring-boot-control-common-service" options="-parameters" />
       <module name="spring-boot-control-conf-service" options="-parameters" />

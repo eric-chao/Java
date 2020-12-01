@@ -3,4 +3,6 @@ mysqlapp/target/*
 mysqlapp/.idea
 mysqlapp/.mvn
 
-
+/target/
+*.idea/
+*.iml

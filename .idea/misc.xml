@@ -21,6 +21,7 @@
         <option value="$PROJECT_DIR$/redis/ranking-list-redis-1/pom.xml" />
         <option value="$PROJECT_DIR$/redis/ranking-list-top/pom.xml" />
         <option value="$PROJECT_DIR$/leave-sample-ddd/leave-service/pom.xml" />
+        <option value="$PROJECT_DIR$/practice/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">

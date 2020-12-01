@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/redis/ranking-list-redis/demo (2).iml" filepath="$PROJECT_DIR$/redis/ranking-list-redis/demo (2).iml" />
       <module fileurl="file://$PROJECT_DIR$/redis/ranking-list-top/demo (3).iml" filepath="$PROJECT_DIR$/redis/ranking-list-top/demo (3).iml" />
       <module fileurl="file://$PROJECT_DIR$/iotx-api-gateway-client/iotx-api-gateway-client.iml" filepath="$PROJECT_DIR$/iotx-api-gateway-client/iotx-api-gateway-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-basic-practice/java-basic-practice.iml" filepath="$PROJECT_DIR$/java-basic-practice/java-basic-practice.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-rocketmq-client/java-rocketmq-client.iml" filepath="$PROJECT_DIR$/java-rocketmq-client/java-rocketmq-client.iml" />
       <module fileurl="file://$PROJECT_DIR$/leave-sample-ddd/leave-service/leave-service.iml" filepath="$PROJECT_DIR$/leave-sample-ddd/leave-service/leave-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/OpenID-Connect-Java-Spring-Server/openid-connect-client/openid-connect-client.iml" filepath="$PROJECT_DIR$/OpenID-Connect-Java-Spring-Server/openid-connect-client/openid-connect-client.iml" />
